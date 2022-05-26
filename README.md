@@ -1,7 +1,7 @@
 # Bilgilendirme
 ⚠️**Görsellerdeki markalar temsilidir.**⚠️
 <br>
-🚀Programı kurmadan önce Beni Oku! adlı dosyayı okuyunuz** 🚀
+🚀**Programı kurmadan önce Beni Oku! adlı dosyayı okuyunuz** 🚀
 # Görseller
 <img src="https://raw.githubusercontent.com/emirhandalgiran/Stok-Takip-Otomasyonu/main/G%C3%B6rseller/ss1.PNG" width="auto">
 <img src="https://raw.githubusercontent.com/emirhandalgiran/Stok-Takip-Otomasyonu/main/G%C3%B6rseller/ss2.PNG" width="auto">
