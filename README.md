@@ -1,5 +1,5 @@
 # Bilgilendirme
-⚠️**Görsellerdeki markalar temsilidir.⚠️
+⚠️**Görsellerdeki markalar temsilidir.**⚠️
 <br>
 🚀Programı kurmadan önce Beni Oku! adlı dosyayı okuyunuz** 🚀
 # Görseller
